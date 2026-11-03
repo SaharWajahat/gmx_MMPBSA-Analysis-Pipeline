@@ -1,4 +1,4 @@
-# Reproducible gmx_MMPBSA + Entropy + Per-Residue Pipeline
+# gmx_MMPBSA Analysis Pipeline
 
 **Author:** Sahar Wajahat
 **Date:** November 2026
@@ -11,7 +11,7 @@
 ### Citation
 If you use this software in your research, please cite:
 
-> Wajahat, S. (2026). *gmx_MMPBSA-Analysis-Template-GB-PB-Entropy-Decomp-Heatmap: Reproducible gmx_MMPBSA Binding Free Energy Workflow* (Version 1.0.0) [Computer software]. https://github.com/SaharWajahat/gmx_MMPBSA-Analysis-Template-GB-PB-Entropy-Decomp-Heatmap
+> Wajahat, S. (2026). gmx_MMPBSA Analysis Pipeline: Reproducible Binding Free Energy Workflow with Entropy Correction, Heatmap and Per-Residue Decomposition (Version 1.0.0) [Computer software]. https://github.com/SaharWajahat/gmx_MMPBSA-Analysis-Pipeline
 
 ---
 
