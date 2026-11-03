@@ -6,7 +6,7 @@ authors:
       given-names: "Sahar"
       orcid: "https://orcid.org/0009-0001-9005-5448"
       email: "saharwajahatfuuast@gmail.com"
-title: "gmx_MMPBSA-Analysis-Template-GB-PB-Entropy-Decomp-Heatmap: Reproducible gmx_MMPBSA Workflow for Binding Free Energy"
+title: "gmx_MMPBSA-Analysis-Template-GB-PB-Entropy-Decomp-Heatmap: Reproducible gmx_MMPBSA Binding Free Energy Workflow"
 version: "1.0.0"
 date-released: "2026-11-03"
 license: "MIT"
