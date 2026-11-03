@@ -11,7 +11,7 @@
 ### Citation
 If you use this software in your research, please cite:
 
-> Wajahat, S. (2026). *gmx_MMPBSA-Analysis-Template-GB-PB-Entropy-Decomp-Heatmap: Reproducible gmx_MMPBSA Workflow for Binding Free Energy* (Version 1.0.0) [Computer software]. https://github.com/SaharWajahat/gmx_MMPBSA-Analysis-Template-GB-PB-Entropy-Decomp-Heatmap
+> Wajahat, S. (2026). *gmx_MMPBSA-Analysis-Template-GB-PB-Entropy-Decomp-Heatmap: Reproducible gmx_MMPBSA Binding Free Energy Workflow* (Version 1.0.0) [Computer software]. https://github.com/SaharWajahat/gmx_MMPBSA-Analysis-Template-GB-PB-Entropy-Decomp-Heatmap
 
 ---
 
