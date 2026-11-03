@@ -16,7 +16,7 @@ If you use this software in your research, please cite:
 ---
 
 ### 1. Purpose
-A complete, end-to-end Colab notebook for **MM/GBSA & MM/PBSA** binding free energy analysis from GROMACS MD trajectories. Designed for reproducibility, transparency, and publication-ready plots. Focus on Protein-LIG systems.
+A complete, end-to-end Colab notebook for **MM/GBSA & MM/PBSA** binding free energy analysis from GROMACS (2023.3) MD trajectories. Designed for reproducibility, transparency, and publication-ready plots. Focus on Protein-LIG systems.
 
 ### 2. What This Pipeline Does
 1.  **Parse gmx_MMPBSA outputs:** `FINAL_DECOMP_last10ns_lig_23.csv` + `FINAL_DECOMP_last10ns_lig_23.dat` + `FINAL_RESULTS_last10ns_lig_23.csv` + `FINAL_RESULTS_last10ns_lig_23.dat` (GB/PB)
