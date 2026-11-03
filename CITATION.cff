@@ -3,21 +3,22 @@ message: "If you use this software, please cite it as below."
 type: software
 authors:
     - family-names: "Wajahat"
-    given-names: "Sahar"
-    orcid: "https://orcid.org/0009-0001-9005-5448"
-    email: "saharwajahatfuuast@gmail.com"
+      given-names: "Sahar"
+      orcid: "https://orcid.org/0009-0001-9005-5448"
+      email: "saharwajahatfuuast@gmail.com"
 title: "gmx_MMPBSA-Analysis-Template-GB-PB-Entropy-Decomp-Heatmap: Reproducible gmx_MMPBSA Workflow for Binding Free Energy"
-version: 1.0.0
-date-released: 2026-11-3
-license: MIT
+version: "1.0.0"
+date-released: "2026-11-03"
+license: "MIT"
+url: "https://github.com/SaharWajahat/gmx_MMPBSA-Analysis-Template-GB-PB-Entropy-Decomp-Heatmap"
 repository-code: "https://github.com/SaharWajahat/gmx_MMPBSA-Analysis-Template-GB-PB-Entropy-Decomp-Heatmap"
 keywords:
-    - gmx_MMPBSA
-    - MM/GBSA
-    - MM/PBSA
-    - Binding Free Energy
-    - GROMACS
-    - Entropy Correction
-    - Per-Residue Decomposition
-    - Drug Discovery
+    - "gmx_MMPBSA"
+    - "MM/GBSA"
+    - "MM/PBSA"
+    - "Binding Free Energy"
+    - "GROMACS"
+    - "Entropy Correction"
+    - "Per-Residue Decomposition"
+    - "Drug Discovery"
 abstract: "A clean, reproducible Google Colab pipeline for MM/GBSA & MM/PBSA binding free energy analysis from GROMACS MD trajectories. Includes GB vs PB comparison, NMODE entropy correction, per-residue decomposition, and publication-ready 300 dpi plots for Protein-LIG systems."
